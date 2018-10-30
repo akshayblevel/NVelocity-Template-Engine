@@ -1,0 +1,8 @@
+D:\AKKI_DEV\RND\NVelocityTemplateEngine\NVelocityTemplateEngine\bin\Debug\NVelocityTemplateEngine.exe.config
+D:\AKKI_DEV\RND\NVelocityTemplateEngine\NVelocityTemplateEngine\bin\Debug\NVelocityTemplateEngine.exe
+D:\AKKI_DEV\RND\NVelocityTemplateEngine\NVelocityTemplateEngine\bin\Debug\NVelocityTemplateEngine.pdb
+D:\AKKI_DEV\RND\NVelocityTemplateEngine\NVelocityTemplateEngine\bin\Debug\NVelocity.dll
+D:\AKKI_DEV\RND\NVelocityTemplateEngine\NVelocityTemplateEngine\bin\Debug\NVelocity.xml
+D:\AKKI_DEV\RND\NVelocityTemplateEngine\NVelocityTemplateEngine\obj\Debug\NVelocityTemplateEngine.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\NVelocityTemplateEngine\NVelocityTemplateEngine\obj\Debug\NVelocityTemplateEngine.exe
+D:\AKKI_DEV\RND\NVelocityTemplateEngine\NVelocityTemplateEngine\obj\Debug\NVelocityTemplateEngine.pdb
